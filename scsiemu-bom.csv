@@ -1,0 +1,17 @@
+Ref Name,Qty,Component,Value,Package,Part Number,Part Number (Digi-Key),Part Number 秋月電子,Description
+"RN 5,7,8,10",4,,220,Cat16-8,CAT16-221J8LF,CAT16-221J8LFCT-ND,,Resistor
+"RN 6,9,11",3,,330,Cat16-8,CAT16-331J8LF,CAT16-331J8LFCT-ND,,Resistor
+"RN 1,2,3,4",4,,10k,Cat16-8,CAT16-103J8LF,CAT16-103J8LFCT-ND,,Resistor
+"C1,2,3,4",4,,0.1u JB,1206,C1608JB1H104K,,P-06166,Capacitor
+C5,1,,10u JB,1206,GRM319B31C106KE15D,,P-12730,Capacitor
+"F1,2",2,,1A,1206,0ZCJ0100FF2E,507-1806-1-ND,,Fuse
+R1,1,Resistor for LED,1k,0603,,,,Resistor
+"U1,2,3,4",4,,74LS641-1,SOIC,SN74LS641-1DW,296-34017-5-ND,,
+"FL1,2",2,,0.22u,,NFM21PC224R1C3D,490-6981-1-ND,,EMI Filter
+LED1,1,,,3mm,,,,LED
+J3,(1),USB Connector,,,ZX62R-B-5P,,C-05254,Connector
+J2,(1),SCSI Connector (DSUB),,,5787082-5,A31812-ND,,Connector
+J2,(1),SCSI Connector,,,10250-5212PL,,,Connector
+J1,1,Pin Sockets,40P,,,,C-00085,Connector
+J4,(1),Power Connector,2P,PH,S2B-PH-K,,C-12633,Connector
+J5,(1),I2C Connector,3P,PH,S3B-PH-K,,,Connector

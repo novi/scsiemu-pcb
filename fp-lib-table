@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name cd_device)(type KiCad)(uri ${KIPRJMOD}/external/kicad_shared_lib/cd_device.pretty)(options "")(descr ""))
+  (lib (name local_lib)(type KiCad)(uri ${KIPRJMOD}/local_lib.pretty)(options "")(descr ""))
+)
