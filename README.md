@@ -13,7 +13,7 @@ NOTE: Some features are depends on your SCSI emulation software.
 ## Compatible SCSI-bus Emulation Software
 
 * [scsiemu](https://github.com/novi/scsiemu) [WIP]
-* [RaSCSI](http://retropc.net/gimons/rascsi/) [Unofficially, Do NOT contact to original author.]
+* [akuker/RASCSI](https://github.com/akuker/RASCSI)
 
 ## Gerbers and BOM(Parts List)
 
