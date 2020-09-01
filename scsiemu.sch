@@ -2184,4 +2184,28 @@ Text Label 12400 6900 0    50   ~ 0
 S_D0
 Text Label 12400 6500 0    50   ~ 0
 S_D4
+$Comp
+L Connector_Generic:Conn_01x01 MH11
+U 1 1 5F7E04EB
+P 1850 3450
+F 0 "MH11" V 1722 3530 50  0000 L CNN
+F 1 "HDD Mount" V 1813 3530 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm" H 1850 3450 50  0001 C CNN
+F 3 "~" H 1850 3450 50  0001 C CNN
+	1    1850 3450
+	0    1    1    0   
+$EndComp
+NoConn ~ 1850 3250
+$Comp
+L Connector_Generic:Conn_01x01 MH12
+U 1 1 5F7E04F6
+P 1850 3800
+F 0 "MH12" V 1722 3880 50  0000 L CNN
+F 1 "HDD Mount" V 1813 3880 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm" H 1850 3800 50  0001 C CNN
+F 3 "~" H 1850 3800 50  0001 C CNN
+	1    1850 3800
+	0    1    1    0   
+$EndComp
+NoConn ~ 1850 3600
 $EndSCHEMATC
