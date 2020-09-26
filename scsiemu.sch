@@ -1617,7 +1617,6 @@ F 3 "" H 13350 2250 50  0001 C CNN
 	1    13350 2250
 	-1   0    0    -1  
 $EndComp
-NoConn ~ 13900 2000
 $Comp
 L Device:C C7
 U 1 1 5FA6B42E
@@ -1714,7 +1713,6 @@ F 3 "" H 13500 7000 50  0001 C CNN
 	1    13500 7000
 	-1   0    0    -1  
 $EndComp
-NoConn ~ 14050 6750
 $Comp
 L Device:C C9
 U 1 1 5FB7986A
@@ -1913,7 +1911,6 @@ Wire Wire Line
 Connection ~ 11050 2150
 Wire Wire Line
 	11050 2150 11050 2200
-NoConn ~ 11150 1900
 $Comp
 L power:VCC #PWR024
 U 1 1 5FEE0159
@@ -1963,7 +1960,6 @@ Wire Wire Line
 Connection ~ 11200 6900
 Wire Wire Line
 	11200 6900 11200 6950
-NoConn ~ 11300 6650
 $Comp
 L power:VCC #PWR026
 U 1 1 5FEE3A19
@@ -2208,4 +2204,52 @@ F 3 "~" H 1850 3800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 NoConn ~ 1850 3600
+Text Label 11150 1900 2    50   ~ 0
+INT_TERM
+Text Label 13900 2000 0    50   ~ 0
+INT_TERM
+Text Label 11300 6650 2    50   ~ 0
+INT_TERM
+Text Label 14050 6750 0    50   ~ 0
+INT_TERM
+Text Label 7550 6650 0    50   ~ 0
+INT_TERM
+$Comp
+L Device:Jumper JP1
+U 1 1 5F734F35
+P 7250 6650
+F 0 "JP1" H 7250 6914 50  0000 C CNN
+F 1 "Internal Terminator" H 7250 6823 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7250 6650 50  0001 C CNN
+F 3 "~" H 7250 6650 50  0001 C CNN
+	1    7250 6650
+	1    0    0    -1  
+$EndComp
+Text Notes 1750 900  0    50   ~ 0
+16mm spacer for Raspi
+$Comp
+L power:GND #PWR0105
+U 1 1 5F73C644
+P 6950 6650
+F 0 "#PWR0105" H 6950 6400 50  0001 C CNN
+F 1 "GND" H 6955 6477 50  0000 C CNN
+F 2 "" H 6950 6650 50  0001 C CNN
+F 3 "" H 6950 6650 50  0001 C CNN
+	1    6950 6650
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1850 1950
+NoConn ~ 1850 1600
+$Comp
+L power:PWR_FLAG #FLG0104
+U 1 1 5F79A4A5
+P 6700 1700
+F 0 "#FLG0104" H 6700 1775 50  0001 C CNN
+F 1 "PWR_FLAG" H 6700 1874 50  0000 C CNN
+F 2 "" H 6700 1700 50  0001 C CNN
+F 3 "~" H 6700 1700 50  0001 C CNN
+	1    6700 1700
+	1    0    0    -1  
+$EndComp
+Connection ~ 6700 1700
 $EndSCHEMATC

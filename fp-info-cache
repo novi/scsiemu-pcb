@@ -1,4 +1,4 @@
-18233052859046668
+18172598973931659
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -80002,297 +80002,31 @@ varistor SIOV
 0
 2
 2
-custom_components
-3xRCA_CONN
+local_lib
+DSUB50P
 
 
 0
-9
-4
-custom_components
-ACHL-OSC
-
-SMA Connector
-0
-4
-4
-custom_components
-BARREL_JACK_roundconn
-DC Barrel Jack
-Power Jack
-0
-3
-3
-custom_components
-DM3D-SF
-
-
-0
-10
-8
-custom_components
-DO-214AC_Handsoldering
-Microsemi LSM115J
-DO-214BA diode
-0
-2
-2
-custom_components
+52
+52
+local_lib
 D_SOD-123_HandSoldering
 D_SOD-123_HandSoldering
 D_SOD-123_HandSoldering
 0
 2
 2
-custom_components
-ECS-3X9X
-Crystal, Quarz, Rundgehaeuse, round, vertical, stehend, Uhrenquarz, Diam. 3mm,
-Crystal Quarz Rundgehaeuse round vertical stehend Uhrenquarz Diam. 3mm
-0
-2
-2
-custom_components
-HDMI_CONN-10029449-111RLF
-
-
-0
-23
-19
-custom_components
-IRM-V5XX_TR1
-
-
-0
-4
-3
-custom_components
-LED-0603
-LED 0603 smd package
-LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
-0
-2
-2
-custom_components
-L_TDK_SLF7045_HandSoldering
-Inductor, TDK, SLF7045, 7.0mmx7.0mm (Script generated with StandardBox.py) (https://product.tdk.com/info/en/document/catalog/smd/inductor_commercial_power_slf7045_en.pdf)
-Inductor TDK_SLF7045
-0
-2
-2
-custom_components
-MS22
-
-
-0
-6
-6
-custom_components
-Mini_DIN_5P
-
-
-0
-8
-6
-custom_components
-NHD-C0216CZ_vertmount
-
-
-0
-12
-12
-custom_components
-OLED_0.91inch_I2C
+local_lib
+Molex_171826-4
 
 
 0
 4
 4
-custom_components
-PB_SW_M7
+local_lib
+TE_641737-1
 
 
-0
-2
-2
-custom_components
-PLT133_T
-
-
-0
-3
-3
-custom_components
-SCART_CONN
-
-
-0
-21
-21
-custom_components
-SJ-2509N
-
-
-0
-3
-3
-custom_components
-SJ1-3533NG
-
-
-0
-3
-3
-custom_components
-SJ1-3535NG
-
-
-0
-5
-5
-custom_components
-SLP2510P8
-
-
-0
-10
-10
-custom_components
-SM0603_Capa_libcms
-
-
-0
-2
-2
-custom_components
-SM0603_Resistor_libcms
-
-
-0
-2
-2
-custom_components
-SM0805_libcms
-
-
-0
-2
-2
-custom_components
-SMA_CONN
-
-SMA Connector
-0
-5
-2
-custom_components
-SMD_JUMPER
-
-
-0
-2
-1
-custom_components
-SOD-323_Handsoldering
-SOD-323
-SOD-323
-0
-2
-2
-custom_components
-SOIC-8_3.9x4.9mm_Pitch1.27mm_Handsoldering
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-custom_components
-SOIJ-8_5.3x5.3mm_Pitch1.27mm_Handsoldering
-8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-custom_components
-SOT-23-5_Handsoldering
-5-pin SOT23 package
-SOT-23-5
-0
-5
-5
-custom_components
-SOT-23-6_Handsoldering
-5-pin SOT23 package
-SOT-23-5
-0
-6
-6
-custom_components
-SOT-223_Handsoldering
-SOT-23, Standard
-SOT-23
 0
 4
-3
-custom_components
-SW_PUSH-SKHCBFA010
-
-
-0
-6
-2
-custom_components
-SW_SPDT
-
-Switch Micro SPST
-0
-3
-3
-custom_components
-TQFP-100_custom
-100-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.5
-0
-100
-100
-custom_components
-TQFP-100_thermal
-100-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.5
-0
-142
-100
-custom_components
-TQFP-144_thermal
-P/PG-TQFP-144-2, -3, -7 (see MAXIM 21-0087.PDF and 90-0144.PDF)
-QFP 0.5
-0
-186
-144
-custom_components
-TSSOP-20_4.4x6.5mm_Pitch0.65mm_Handsoldering
-20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
-0
-20
-20
-custom_components
-TSSOP-30_4.4x7.8mm_Pitch0.5mm_Handsoldering
-TSSOP30: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf)
-SSOP 0.5
-0
-30
-30
-custom_components
-TestPad-D1.0mm
-
-
-0
-1
-1
-custom_components
-VGA_CONN
-
-
-0
-17
-15
+4
