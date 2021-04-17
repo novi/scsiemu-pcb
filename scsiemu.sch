@@ -2252,4 +2252,6 @@ F 3 "~" H 6700 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 6700 1700
+Text Notes 4450 5900 0    50   ~ 0
+GPIO 9
 $EndSCHEMATC
